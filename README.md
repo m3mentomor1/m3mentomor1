@@ -22,5 +22,5 @@ I love all things **dev**, and I thoroughly enjoy the process of creating and bu
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats)
 
 **Create your own GitHub Stats:** 
-[GitHub Stats Generator](https://github.com/omsimos/github-stats-generator)
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
