@@ -19,4 +19,4 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m3mentomor1&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m3mentomor1&theme=rose_pine)
