@@ -13,7 +13,7 @@ I'm an enthusiastic undergraduate student currently pursuing a degree in **BS Co
 - **Cloud Development**
   - Microsoft Azure
 
-"I love all things **dev**, and I thoroughly enjoy the process of creating and building things."
+I love all things **dev**, and I thoroughly enjoy the process of creating and building things.
 ##
 ## 📈 Github Stats
 
