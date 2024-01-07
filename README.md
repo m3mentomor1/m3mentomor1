@@ -20,3 +20,5 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=m3mentomor1)](https://wakatime.com/@m3mentomor1)
