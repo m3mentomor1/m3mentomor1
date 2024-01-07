@@ -17,4 +17,4 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m3mentomor1)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m3mentomor1)](https://github.com/m3mentomor1/github-readme-stats)
