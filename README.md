@@ -12,6 +12,8 @@ I'm an enthusiastic undergraduate student currently pursuing a degree in **BS Co
   - Natural Language Processing (NLP)
 - **Cloud Development**
   - Microsoft Azure
+
+"I love all things **dev**, and I thoroughly enjoy the process of creating and building things."
 ##
 ## 📈 Github Stats
 
