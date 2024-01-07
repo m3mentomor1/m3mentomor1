@@ -1,4 +1,5 @@
 # Hello, I'm Shain! 👋
+## Overview
 An enthusiastic undergraduate student currently pursuing a degree in BS Computer Engineering at the Technological Institute of the Philippines, Quezon City.
 ##
 🚀 I'm also an aspiring Software Engineer with a strong passion for:
