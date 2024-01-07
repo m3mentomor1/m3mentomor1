@@ -1,8 +1,8 @@
 # Hello, I'm Shain! 👋
 ## Overview
-An enthusiastic undergraduate student currently pursuing a degree in BS Computer Engineering at the Technological Institute of the Philippines, Quezon City.
+An enthusiastic undergraduate student currently pursuing a degree in **BS Computer Engineering** at the Technological Institute of the Philippines, Quezon City.
 
-🚀 I'm also an aspiring Software Engineer with a strong passion for gaining & developing skills in the following:
+🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in the following:
 - **Front-end & Back-end Development**
   - Mobile
   - Web
@@ -20,4 +20,4 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats)
 ##
 ## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
