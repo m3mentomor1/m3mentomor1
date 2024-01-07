@@ -8,4 +8,6 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
   - Speech Processing
   - Natural Language Processing (NLP)
 - **Cloud Development (Microsoft Azure)**
-
+##
+Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=dark)
