@@ -21,4 +21,4 @@ An enthusiastic undergraduate student currently pursuing a degree in BS Computer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=m3mentomor1)](https://wakatime.com/@m3mentomor1)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=m3mentomor1)
