@@ -20,4 +20,4 @@ An enthusiastic undergraduate student currently pursuing a degree in **BS Comput
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats)
 ##
 ## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=darkhub&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
