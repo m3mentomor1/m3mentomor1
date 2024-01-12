@@ -6,7 +6,7 @@ I'm an undergraduate student currently pursuing a degree in **BS Computer Engine
 - **Front-end & Back-end Development**
   - Mobile
   - Web
-- **AI/ML Development & Implementation**
+- **AI/ML Development**
   - Computer Vision
   - Speech Processing
   - Natural Language Processing (NLP)
