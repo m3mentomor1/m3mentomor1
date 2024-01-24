@@ -17,6 +17,7 @@ I love all things **dev**, and I thoroughly enjoy the process of creating and bu
 ##
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ##
 ## 📈 GitHub Stats
 
