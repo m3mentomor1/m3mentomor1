@@ -30,7 +30,8 @@ I love all things **dev**, and I thoroughly enjoy the process of creating and bu
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-
+**Add Markdown Badges to your GitHub Profile:** 
+[Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 ##
 ## 📈 GitHub Stats
 
