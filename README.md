@@ -1,6 +1,6 @@
 # Hello, I'm Shain! 👋
 ## 🙋 Introduction
-*I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.*
+I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.
 
 🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in:
 - **Front-end & Back-end Development** with specialization in
@@ -12,7 +12,7 @@
   - Natural Language Processing (NLP)
 - **Cloud Development** specializing in the integration Microsoft Azure services
 
-I love all things **dev**, and I thoroughly enjoy the process of creating and building things.
+*I love all things **dev**, and I thoroughly enjoy the process of creating and building things.*
 ##
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
