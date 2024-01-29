@@ -3,15 +3,14 @@
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.
 
 🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in:
-- **Front-end & Back-end Development**
+- **Front-end & Back-end Development** with specialization in
   - Mobile
   - Web
-- **AI/ML Development**
+- **AI/ML Development** specializing in 
   - Computer Vision
   - Speech Processing
   - Natural Language Processing (NLP)
-- **Cloud Development**
-  - Microsoft Azure
+- **Cloud Development** specializing in the integration Microsoft Azure services
 
 I love all things **dev**, and I thoroughly enjoy the process of creating and building things.
 ##
