@@ -1,7 +1,7 @@
 # Hello, I'm Shain! 👋
 ## 🙋 Introduction
-I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.
-
+_I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.
+_
 🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in:
 - **Front-end & Back-end Development** with specialization in
   - Mobile
