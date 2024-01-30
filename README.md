@@ -12,7 +12,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - Natural Language Processing (NLP)
 - **Cloud Development** specializing in the integration Microsoft Azure services
 
-*I love all things **dev**, and I thoroughly enjoy the process of creating and building things.*
+*I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
