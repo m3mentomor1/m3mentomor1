@@ -33,8 +33,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 ##
 ## 📈 GitHub Stats | Experience Level
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=juicyfresh&title=Experience)
+![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=juicyfresh&title=Experience)![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
 
 ##
 ## 📈 Top Programming Languages
