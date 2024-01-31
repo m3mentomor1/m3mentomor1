@@ -6,4 +6,7 @@ Computer Vision:
 
 Speech Processing & NLP:
 - [Text-to-Speech Coverter Using gTTS](https://github.com/m3mentomor1/Text-to-Speech_Coverter_Using_gTTS)
+- [Speech-to-Text Transcriber](https://github.com/m3mentomor1/Speech-to-Text-Transcriber)
 
+Deep Learning:
+- [Breast Cancer Image Classification with DenseNet121](https://github.com/m3mentomor1/Breast-Cancer-Image-Classification-with-DenseNet121)
