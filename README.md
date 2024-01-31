@@ -2,7 +2,7 @@
 ## 🙋 Introduction
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
-🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in:
+🚀 I'm also an aspiring multidisciplinary **Software Engineer** with a strong passion for gaining & developing skills in:
 - **Front-end & Back-end Development** with specialization in
   - Mobile
   - Web
@@ -17,43 +17,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## 💻 Personal Tech Stack
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| Front-end & Back-end Development | **Mobile:** ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure`` <br> **Web:** ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure`` |
-| AI/ML                       | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure`` |
-
-<table>
-  <tr>
-    <td>Front-end & Back-end Development (Mobile & Web)</td>
-    <td>
-      <strong>Mobile:</strong> Figma, Dart, Flutter, Material Design 3, Microsoft Azure <br>
-      <strong>Web:</strong> Figma, Python, JavaScript, React, Django, Material Design 3, Microsoft Azure
-    </td>
-  </tr>
-  <tr>
-    <td>AI/ML</td>
-    <td>Python, TensorFlow, OpenCV, Keras, Streamlit, Microsoft Azure</td>
-  </tr>
-</table>
-
-
-
-
-<table>
-  <tr>
-    <td>Front-end & Back-end Development (Mobile & Web)</td>
-    <td>
-      <strong>Mobile:</strong> <span class="highlight">Figma</span>, <span class="highlight">Dart</span>, <span class="highlight">Flutter</span>, <span class="highlight">Material Design 3</span>, <span class="highlight">Microsoft Azure</span> <br>
-      <strong>Web:</strong> <span class="highlight">Figma</span>, <span class="highlight">Python</span>, <span class="highlight">JavaScript</span>, <span class="highlight">React</span>, <span class="highlight">Django</span>, <span class="highlight">Material Design 3</span>, <span class="highlight">Microsoft Azure</span>
-    </td>
-  </tr>
-  <tr>
-    <td>AI/ML</td>
-    <td><span class="highlight">Python</span>, <span class="highlight">TensorFlow</span>, <span class="highlight">OpenCV</span>, <span class="highlight">Keras</span>, <span class="highlight">Streamlit</span>, <span class="highlight">Microsoft Azure</span></td>
-  </tr>
-</table>
-
-
-
-
+| **Front-end & Back-end Development** | Mobile: ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure`` <br> Web: ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure`` |
+| **AI/ML**                       | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 🗂️ Portfolio
 - **Projects:**
