@@ -41,7 +41,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 - **Certifications:**
   - [Project Management]()
-  - [AI/ML]()
+  - [Data Science]()
   - [Cloud Computing]()
   - [Python]()
   - [Networking]()
