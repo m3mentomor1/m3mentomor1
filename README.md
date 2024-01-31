@@ -22,10 +22,6 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 <table>
   <tr>
-    <td><strong>Area</strong></td>
-    <td><strong>Technologies</strong></td>
-  </tr>
-  <tr>
     <td>Front-end & Back-end Development (Mobile & Web)</td>
     <td>
       <strong>Mobile:</strong> Figma, Dart, Flutter, Material Design 3, Microsoft Azure <br>
@@ -37,6 +33,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
     <td>Python, TensorFlow, OpenCV, Keras, Streamlit, Microsoft Azure</td>
   </tr>
 </table>
+
 
 
 
