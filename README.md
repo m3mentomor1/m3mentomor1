@@ -33,7 +33,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - [Proctoria | International Symposium on Education and AI Convergence (ISEAC) 2023]()
 
 - **School Projects:**
-
+  - [Programming Logic & Design]()
+  - [XpressTracker]()
 
 - **Leadership Roles:**
   - Microsoft Learn Student Ambassador | *Microsoft* (2024 - Present)
