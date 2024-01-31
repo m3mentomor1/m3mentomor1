@@ -35,9 +35,9 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - (2022 - 2023) Research Committee Member | *Microsoft Student Community - T.I.P. Manila* 
 
 - **Awards:**
-  - (Nov 2023) Finalist | Meralco IDOL Hackathon 
-  - (Aug 2023) 2nd Place Winner | International Symposium on Education and AI Convergence (ISEAC) 2023 
-  - (Mar 2023) National Finalist | Microsoft Imagine Cup 2023: Phillippine National Finals 
+  - [(Nov 2023) Finalist | *Meralco IDOL Hackathon*]() 
+  - [(Aug 2023) 2nd Place Winner | *International Symposium on Education and AI Convergence (ISEAC) 2023*](https://www.linkedin.com/feed/update/urn:li:activity:7100918901907095552/) 
+  - [(Mar 2023) National Finalist | *Microsoft Imagine Cup 2023: Phillippine National Finals*](https://www.linkedin.com/feed/update/urn:li:activity:7037620385797824512/)  
 
 - **Certifications:**
 
