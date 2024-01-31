@@ -34,6 +34,20 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>Front-end & Back-end Development (Mobile & Web)</td>
+    <td>
+      <strong>Mobile:</strong> ``Figma``, ``Dart``, ``Flutter``, ``Material Design 3``, ``Microsoft Azure`` <br>
+      <strong>Web:</strong> ``Figma``, ``Python``, ``JavaScript``, ``React``, ``Django``, ``Material Design 3``, ``Microsoft Azure``
+    </td>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td>``Python``, ``TensorFlow``, ``OpenCV``, ``Keras``, ``Streamlit``, ``Microsoft Azure``</td>
+  </tr>
+</table>
+
 
 
 
