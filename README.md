@@ -16,13 +16,13 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 💻 Personal Tech Stack
 - Front-end & Back-end Development
-  - 📱 Mobile: ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure``
-  - 🌐 Web: ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure``
-- 🤖 AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
+  - Mobile: ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure``
+  - Web: ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure``
+- AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
 ## 💻 Projects
-- [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
-- [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
+- 📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
+- 🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
 - 🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) 
 ##
 ## 📈 GitHub Stats
