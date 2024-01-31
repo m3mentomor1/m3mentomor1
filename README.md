@@ -22,18 +22,19 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 <table>
   <tr>
-    <td>Front-end & Back-end Development</td>
-    <td>``Figma``</td>
+    <td>Front-end & Back-end Development (Mobile)</td>
+    <td>Figma, Dart, Flutter, Material Design 3, Microsoft Azure</td>
   </tr>
   <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
+    <td>Front-end & Back-end Development (Web)</td>
+    <td>Figma, Python, JavaScript, React, Django, Material Design 3, Microsoft Azure</td>
   </tr>
   <tr>
-    <td>Key 3</td>
-    <td>Value 3</td>
+    <td>AI/ML</td>
+    <td>Python, TensorFlow, OpenCV, Keras, Streamlit, Microsoft Azure</td>
   </tr>
 </table>
+
 
 
 
