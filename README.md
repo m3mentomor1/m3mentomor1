@@ -30,6 +30,9 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
 - **Certifications:**
+
+[Foundations of Project Management | Coursera](https://coursera.org/share/91ff124a4dd1876443796504ab91b105)
+
 [Python Essentials 1 | Cisco Networking Academy](https://www.credly.com/badges/9f732e27-cbfb-469e-934d-5a1f7fbff15e/linked_in_profile)
 
 [Python Essentials 2 | Cisco Networking Academy](https://www.credly.com/badges/5e9ee5d7-736e-4e49-bbcf-12e412a23945/linked_in_profile)
