@@ -10,7 +10,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - Computer Vision
   - Speech Processing
   - Natural Language Processing (NLP)
-- **Cloud Development** specializing in the integration Microsoft Azure services
+- **Cloud Development** specializing in integrating Microsoft Azure services into mobile and web apps.
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
