@@ -1,6 +1,6 @@
 # Hello, I'm Shain! 👋
 ## 🙋 Introduction
-I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines, Quezon City.
+I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring **Software Engineer** with a strong passion for gaining & developing skills in:
 - **Front-end & Back-end Development** with specialization in
@@ -28,6 +28,10 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
 
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
+
+- **Leadership Roles:**
+  - President | Microsoft Student Community - T.I.P. QC (2023-2024)
+  - Microsoft Learn Student Ambassador | Microsoft (2024 - Present)
 
 - **Certifications:**
 
