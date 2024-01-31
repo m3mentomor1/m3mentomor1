@@ -16,26 +16,26 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 💻 Personal Tech Stack
 - 📱 Front-end & Back-end Development (Mobile)
-  - Figma
-  - Dart
-  - Flutter
-  - Material Design 3
-  - Microsoft Azure
+      - Figma
+      - Dart
+      - Flutter
+      - Material Design 3
+      - Microsoft Azure
 - 🌐 Front-end & Back-end Development (Web)
-  - Figma
-  - Python
-  - JavaScript
-  - React
-  - Django
-  - Material Design 3
-  - Microsoft Azure
+      - Figma
+      - Python
+      - JavaScript
+      - React
+      - Django
+      - Material Design 3
+      - Microsoft Azure
 - 🤖 AI/ML
-  - Python
-  - TensorFlow
-  - OpenCV
-  - Keras
-  - Streamlit
-  - Microsoft Azure
+      - Python
+      - TensorFlow
+      - OpenCV
+      - Keras
+      - Streamlit
+      - Microsoft Azure
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
