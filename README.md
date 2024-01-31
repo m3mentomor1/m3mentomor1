@@ -42,9 +42,9 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - **Certifications:**
   - [Project Management]()
   - [Data Science]()
-  - [Cloud Computing]()
+  - [Microsoft Azure]()
   - [Python]()
-  - [Networking]()
+  - [System Administration]()
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
