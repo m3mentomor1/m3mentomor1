@@ -30,8 +30,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
 - **Leadership Roles:**
-  - President, Creatives Committee Head | *Microsoft Student Community - T.I.P. QC* (2023 - 2024)
   - Microsoft Learn Student Ambassador | *Microsoft* (2024 - Present)
+  - President, Creatives Committee Head | *Microsoft Student Community - T.I.P. QC* (2023 - Present)
   - Research Committee Member | *Microsoft Student Community - T.I.P. Manila* (2022 - 2023)
 
 - **Certifications:**
