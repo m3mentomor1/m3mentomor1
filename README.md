@@ -44,6 +44,10 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## 📈 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
+##
+## 📈 Experience Level
+[![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=juicyfresh&title=Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
 **Create your own GitHub Stats:** 
 - [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
