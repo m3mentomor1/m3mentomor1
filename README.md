@@ -22,11 +22,17 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 💻 Portfolio
 - **Projects:**
+
   📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
 
   🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
 
-  🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) 
+  🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
+
+- **Certifications:**
+[Python Essentials 1 | Cisco Networking Academy](https://www.credly.com/badges/9f732e27-cbfb-469e-934d-5a1f7fbff15e/linked_in_profile)
+
+[Python Essentials 2 | Cisco Networking Academy](https://www.credly.com/badges/5e9ee5d7-736e-4e49-bbcf-12e412a23945/linked_in_profile)
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
