@@ -32,6 +32,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - **Leadership Roles:**
   - President | *Microsoft Student Community - T.I.P. QC* (2023-2024)
   - Microsoft Learn Student Ambassador | *Microsoft* (2024 - Present)
+  - Research Committee Member | *Microsoft Student Community - T.I.P. Manila* (2022-2023)
 
 - **Certifications:**
 
