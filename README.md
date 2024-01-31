@@ -20,7 +20,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - Web: ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure``
 - AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
-## 💻 Portfolio
+## 🗂️ Portfolio
 - **Projects:**
 
   📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
@@ -46,6 +46,10 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   [Python Essentials 1 | Cisco Networking Academy](https://www.credly.com/badges/9f732e27-cbfb-469e-934d-5a1f7fbff15e/linked_in_profile)
 
   [Python Essentials 2 | Cisco Networking Academy](https://www.credly.com/badges/5e9ee5d7-736e-4e49-bbcf-12e412a23945/linked_in_profile)
+
+  [CCNA: Introduction to Networks | Cisco Networking Academy](https://www.credly.com/badges/f0d600ef-19f8-4353-9f31-b2290f598ee0/linked_in_profile)
+
+  [IT Essentials | Cisco Networking Academy](https://www.credly.com/badges/7954c0ed-29e2-4721-880d-11f5e67c3d83?source=linked_in_profile)
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
