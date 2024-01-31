@@ -20,9 +20,20 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | Front-end & Back-end Development | **Mobile:** ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure`` <br> **Web:** ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure`` |
 | AI/ML                       | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure`` |
 
-| Front-end & Back-end Development (Mobile) | Figma, Dart, Flutter, Material Design 3, Microsoft Azure |
-| Front-end & Back-end Development (Web) | Figma, Python, JavaScript, React, Django, Material Design 3, Microsoft Azure |
-| AI/ML | Python, TensorFlow, OpenCV, Keras, Streamlit, Microsoft Azure |
+<table>
+  <tr>
+    <td>Front-end & Back-end Development</td>
+    <td>``Figma``</td>
+  </tr>
+  <tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+  </tr>
+  <tr>
+    <td>Key 3</td>
+    <td>Value 3</td>
+  </tr>
+</table>
 
 
 
