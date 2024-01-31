@@ -34,16 +34,14 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
-
 ##
 ## 📈 Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
-
 ##
-## 📈 Experience Level | Streak Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=m3mentomor1&theme=juicyfresh&title=Experience) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
+## 📈 Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
-**Create your own GitHub Stats:** 
+**Create your own:** 
 - [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ##
