@@ -40,16 +40,11 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - [(Mar 2023) National Finalist | *Microsoft Imagine Cup 2023: Phillippine National Finals*](https://www.linkedin.com/feed/update/urn:li:activity:7037620385797824512/)  
 
 - **Certifications:**
-
-  [Project Management]()
-
-  [AI/ML]()
-
-  [Cloud Computing]()
-
-  [Python]()
-
-  [Networking]()
+  - [Project Management]()
+  - [AI/ML]()
+  - [Cloud Computing]()
+  - [Python]()
+  - [Networking]()
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
