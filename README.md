@@ -21,7 +21,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
 ## 💻 Portfolio
-- **Personal Projects:**
+- **Projects:**
 
   📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
 
@@ -29,17 +29,15 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
-- **Hackathon Projects:**
-  - [Proctoria | International Symposium on Education and AI Convergence (ISEAC) 2023]()
-
-- **School Projects:**
-  - [Breast Cancer Image Classification]()
-  - [XpressTracker]()
-
 - **Leadership Roles:**
   - Microsoft Learn Student Ambassador | *Microsoft* (2024 - Present)
   - President, Creatives Committee Head | *Microsoft Student Community - T.I.P. QC* (2023 - Present)
   - Research Committee Member | *Microsoft Student Community - T.I.P. Manila* (2022 - 2023)
+
+- **Awards:**
+  - Finalist | Meralco IDOL Hackathon (Nov 2023)
+  - 2nd Place Winner | International Symposium on Education and AI Convergence (ISEAC) 2023 (Aug 2023)
+  - National Finalist | Microsoft Imagine Cup 2023: Phillippine National Finals (Mar 2023)
 
 - **Certifications:**
 
