@@ -38,7 +38,6 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ##
-## 🌐 Social/s
-[LinkedIn](https://www.linkedin.com/in/shain-sahagun/)
-
-[Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
+## 👨‍👨‍👧‍👧 Social/s
+- [LinkedIn](https://www.linkedin.com/in/shain-sahagun/)
+- [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
