@@ -16,7 +16,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 💻 Personal Tech Stack
 - Front-end & Back-end Development
-  - 📱 Mobile: ``Figma`` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure``
+  - 📱 Mobile: ```Figma``` ``Dart`` ``Flutter`` ``Material Design 3`` ``Microsoft Azure``
   - 🌐 Web: ``Figma`` ``Python`` ``JavaScript`` ``React`` ``Django`` ``Material Design 3`` ``Microsoft Azure``
 - 🤖 AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
