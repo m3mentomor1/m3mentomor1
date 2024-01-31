@@ -21,13 +21,19 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
 ## 💻 Portfolio
-- **Dev Projects:**
+- **Personal Projects:**
 
   📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
 
   🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
 
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
+
+- **Hackathon Projects:**
+  - [Proctoria | International Symposium on Education and AI Convergence (ISEAC) 2023]()
+
+- **School Projects:**
+
 
 - **Leadership Roles:**
   - Microsoft Learn Student Ambassador | *Microsoft* (2024 - Present)
