@@ -30,7 +30,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
 - **Leadership Roles:**
-  - [(2024 - Present) Microsoft Learn Student Ambassador | *Microsoft*](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8) 
+  - [(2024 - Present) Microsoft Learn Student Ambassador | *Microsoft*](https://mvp.microsoft.com/studentambassadors/certificate/29029057-9590-40b8-8798-a96fdadaa7d8) 
   - [(2023 - Present) President, Creatives Committee Head | *Microsoft Student Community - T.I.P. QC*](https://web.facebook.com/msc.tipqc) 
   - [(2022 - 2023) Research Committee Member | *Microsoft Student Community - T.I.P. Manila*](https://web.facebook.com/msctipmofficial) 
 
