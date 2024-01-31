@@ -21,9 +21,9 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - AI/ML: ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure``
 ##
 ## 💻 Projects
-- 📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
-- 🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
-- 🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) 
+📱 [Front-end & Back-end Development (Mobile)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
+🌐 [Front-end & Back-end Development (Web)](https://github.com/m3mentomor1/m3mentomor1/blob/main/Web%5CFrontend%26BackendDev.md)
+🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) 
 ##
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=rose_pine)
