@@ -1,4 +1,4 @@
-# Projects
+# AI/ML Projects
 
 ### Computer Vision:
 - [Breast Cancer Image Classification with DenseNet121](https://github.com/m3mentomor1/Breast-Cancer-Image-Classification-with-DenseNet121)
