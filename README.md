@@ -3,7 +3,7 @@
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software Engineer** with a strong passion for gaining & developing skills in:
-- **Front-end & Back-end Development** with specialization in
+- **UI/UX Design, Front-end & Back-end Development** with specialization in
   - Mobile
   - Web
 - **AI/ML Development** specializing in 
