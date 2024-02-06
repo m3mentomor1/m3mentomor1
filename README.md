@@ -17,8 +17,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## 💻 Personal Tech Stack
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Django`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` |
 | **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3``                      |
+| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Django`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` |
 | **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 🗂️ Portfolio
