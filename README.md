@@ -22,7 +22,9 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 💻 Techologies/Tools I can use
-**Programming/Markup/Style Sheet Languages:** ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS``
+| Technologies                                                                                     |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| **Programming/Markup/Style Sheet Languages** | ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
 
 **Frameworks:** ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy``
 
