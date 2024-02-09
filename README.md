@@ -23,9 +23,13 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 💻 Techologies/Tools I can use
 **Programming/Markup/Style Sheet Languages:** ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS``
+
 **Frameworks:** ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy``
+
 **Databases:** ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL``
+
 **Tools:** ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git``  ``OpenCV`` ``Streamlit``
+
 **Cloud Services:** ``Microsoft Azure``
 ##
 ## 🗂️ Portfolio
