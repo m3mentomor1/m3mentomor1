@@ -27,7 +27,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Programming/Markup/Style Sheet Languages** | ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
 | **Frameworks** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Databases** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` |
-| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit`` ``SSMS (Microsoft SQL Server Management Studio)``
+| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
 | **Cloud Service/s** | ``Microsoft Azure`` |
 ##
 ## 🗂️ Portfolio
