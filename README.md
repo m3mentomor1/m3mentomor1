@@ -28,7 +28,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 **Databases:** ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL``
 
-**Tools:** ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
+**Tools:** ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit`` ``SSMS (Microsoft SQL Server Management Studio)``
 
 **Cloud Service/s:** ``Microsoft Azure``
 ##
