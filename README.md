@@ -29,6 +29,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
   👉 [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
+  👉 [Solved LeetCode Problems]()
 
 - **Leadership Roles:**
   - [(2024 - Present) Microsoft Learn Student Ambassador | *Microsoft*](https://mvp.microsoft.com/studentambassadors/certificate/29029057-9590-40b8-8798-a96fdadaa7d8) 
