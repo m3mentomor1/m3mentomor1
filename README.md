@@ -14,7 +14,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
-## 💻 Personal Tech Stack
+## 💻 Personal Tech Stack (Current)
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva``                      |
