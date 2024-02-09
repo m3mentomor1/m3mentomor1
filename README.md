@@ -1,4 +1,7 @@
 # Hello, I'm Shain! 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shain-sahagun/)
+
 ## 🙋 Introduction
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
