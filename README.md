@@ -22,11 +22,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 💻 Techologies/Tools I can use
-| Area                        | Technologies                                                                                     |
-|-----------------------------|--------------------------------------------------------------------------------------------------|
-| **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva``                      |
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``SQLite`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``SQL`` ``MySQL`` ``PostgreSQL`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` |
-| **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Microsoft Azure`` |
+``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Dart`` ``Flutter`` ``Microsoft Azure`` ``SQLite`` ``PostgreSQL`` ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``SQL`` ``MySQL`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit``
 ##
 ## 🗂️ Portfolio
 - **Projects:**
