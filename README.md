@@ -31,8 +31,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Cloud Service/s** | ``Microsoft Azure`` |
 | **Linux Ditros** | GNOME-based: ``Fedora`` ``Pop!_OS`` |
 ##
-## 🗂️ Portfolio
-- **Projects:**
+## 🗂️ Projects
 
   📱🌐 [Mobile & Web: UI/UX Design, Front-end & Back-end Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
 
@@ -41,23 +40,6 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   👉 [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 
   👉 [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
-
-- **Leadership Roles:**
-  - [(2024 - Present) Microsoft Learn Student Ambassador | *Microsoft*](https://mvp.microsoft.com/studentambassadors/certificate/29029057-9590-40b8-8798-a96fdadaa7d8) 
-  - [(2023 - Present) President, Creatives Committee Head | *Microsoft Student Community - T.I.P. QC*](https://web.facebook.com/msc.tipqc) 
-  - [(2022 - 2023) Research Committee Member | *Microsoft Student Community - T.I.P. Manila*](https://web.facebook.com/msctipmofficial) 
-
-- **Competitions:**
-  - [(Nov 2023) Finalist | *Meralco IDOL Hackathon*]() 
-  - [(Aug 2023) 2nd Place Winner | *International Symposium on Education and AI Convergence (ISEAC) 2023*](https://www.linkedin.com/feed/update/urn:li:activity:7100918901907095552/) 
-  - [(Mar 2023) National Finalist | *Microsoft Imagine Cup 2023: Phillippine National Finals*](https://www.linkedin.com/feed/update/urn:li:activity:7037620385797824512/)  
-
-- **Certifications:**
-  - [Project Management]()
-  - [Data Science]()
-  - [Microsoft Azure]()
-  - [Python]()
-  - [System Administration]()
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
