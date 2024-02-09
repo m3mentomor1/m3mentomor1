@@ -30,7 +30,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 **Tools:** ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git``  ``OpenCV`` ``Streamlit``
 
-**Cloud Services:** ``Microsoft Azure``
+**Cloud Service/s:** ``Microsoft Azure``
 ##
 ## 🗂️ Portfolio
 - **Projects:**
