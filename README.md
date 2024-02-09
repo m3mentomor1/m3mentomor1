@@ -18,14 +18,14 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva``                      |
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``SQL`` ``MySQL`` ``PostgreSQL`` ``Microsoft Azure`` ``Git`` |
+| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``PostgreSQL`` ``Microsoft Azure`` ``Git`` |
 | **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 💻 Techologies/Tools I can use
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva``                      |
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``PostgreSQL`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` |
+| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Django`` ``SQL`` ``MySQL`` ``PostgreSQL`` ``HTML`` ``CSS`` ``Microsoft Azure`` ``Git`` |
 | **AI/ML**                         | ``Python`` ``TensorFlow`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Microsoft Azure`` |
 ##
 ## 🗂️ Portfolio
