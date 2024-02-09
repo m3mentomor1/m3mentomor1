@@ -1,6 +1,4 @@
-# Hello, I'm Shain! 👋
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shain-sahagun/)
+# Hello, I'm Shain! 👋 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shain-sahagun/)
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
 
 ## 🙋 Introduction
