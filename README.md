@@ -41,7 +41,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 |              |                                                                        |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **Programming/Markup/Style Sheet Language** | ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
-| **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``PyQt`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
+| **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` |
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
