@@ -27,6 +27,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 - [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
+- [Azure]()
+
 - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 
 - [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
