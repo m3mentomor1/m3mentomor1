@@ -40,10 +40,10 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## ⚙️ Techologies/Tools I can use
 |              |                                                                        |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Programming/Markup/Style Sheet Language** | ``Python`` ``Java`` ``C++`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
+| **Programming/Markup/Style Sheet Language** | ``Python`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
 | **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` |
-| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
+| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit``
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
 | **Linux Ditros** | GNOME-based: ``Fedora`` ``Pop!_OS`` |
 ##
