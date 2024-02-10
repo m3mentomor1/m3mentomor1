@@ -39,13 +39,13 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 🗂️ Projects
 
-  📱🌐 [Mobile & Web: UI/UX Design, Front-end & Back-end Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
+-------> [Mobile & Web: UI/UX Design, Front-end & Back-end Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
 
-  🤖 [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
+-------> [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
-  👉 [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
+-------> [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 
-  ✅ [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
+-------> [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
   
 ##
 ## 📈 GitHub Stats
