@@ -34,7 +34,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``PyQt`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` |
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
-| **Cloud Service** | ``Microsoft Azure`` |
+| **Cloud Computing Service** | ``Microsoft Azure`` |
 | **Linux Ditros** | GNOME-based: ``Fedora`` ``Pop!_OS`` |
 ##
 ## 🗂️ Projects
