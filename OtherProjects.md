@@ -1,4 +1,5 @@
 # Other Projects
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [Pattern-Based File Remover](https://github.com/m3mentomor1/Pattern-Based-File-Remover)
 - [Fibonacci Number Generator](https://github.com/m3mentomor1/Fibonacci_Number_Generator)
