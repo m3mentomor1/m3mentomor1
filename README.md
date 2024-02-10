@@ -45,10 +45,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
   👉 [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 
-  👉 [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
-
-![leetcode](https://github.com/m3mentomor1/m3mentomor1/assets/95956735/d38baaa3-2ff7-4fc8-a0c8-6d0f10b43937)
-
+  ✅ [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
   
 ##
 ## 📈 GitHub Stats
