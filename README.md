@@ -20,6 +20,16 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
+## 🗂️ Projects
+
+-------> [Mobile & Web: UI/UX Design, Front-end & Back-end Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
+
+-------> [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
+
+-------> [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
+
+-------> [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
+##
 ## 💻 Personal Tech Stack (Current)
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
@@ -36,17 +46,6 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Git`` ``GitHub`` ``OpenCV`` ``Streamlit``
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
 | **Linux Ditros** | GNOME-based: ``Fedora`` ``Pop!_OS`` |
-##
-## 🗂️ Projects
-
--------> [Mobile & Web: UI/UX Design, Front-end & Back-end Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/Mobile%5CFrontend%26BackendDev.md)
-
--------> [AI/ML](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
-
--------> [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
-
--------> [Solved LeetCode Problems](https://github.com/m3mentomor1/Solved_LeetCode_Problems)
-  
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
