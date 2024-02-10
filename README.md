@@ -1,6 +1,7 @@
 # Hello, I'm Shain! 👋 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shain-sahagun/) 
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
+[![GitLab Profile](https://img.shields.io/badge/GitLab-Visit%20My%20Profile-000000?style=flat&logo=gitlab&logoColor=white&color=000000)](https://your-gitlab-profile-url.com)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=000000)](https://your-portfolio-website-url.com)
 
 This is where you'll find all the projects I've worked on & am currently working on.
