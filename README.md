@@ -46,7 +46,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **Programming/Markup/Style Sheet Language** | ``Python`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
 | **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
-| **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` |
+| **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` ``MongoDB`` ``Azure Cosmos DB`` |
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit`` |
 | **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
