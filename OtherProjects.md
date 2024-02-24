@@ -9,3 +9,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - [Area of Square Calculator](https://github.com/m3mentomor1/Area_of_Square_Calculator)
 - 
+
+<br>
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
