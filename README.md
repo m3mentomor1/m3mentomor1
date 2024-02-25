@@ -5,7 +5,7 @@
 [![GitLab Profile](https://img.shields.io/badge/GitLab-Profile-orange?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/m3mentomor1)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white&color=f5bb00)](https://leetcode.com/qsaqsahagun/)
 
-This is where you'll find all the projects I've worked on & am currently working on.
+This is where you'll find all dev projects I've worked on & am currently working on.
 
 ## 🙋 Introduction
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
