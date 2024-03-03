@@ -28,7 +28,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
-- [Azure-based Projects]()
+- [Microsoft Azure]()
 
 - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 ##
