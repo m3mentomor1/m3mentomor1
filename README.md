@@ -14,7 +14,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - **UI/UX Design, Front-end & Back-end Development** with specialization in
   - Mobile
   - Web
-- **AI/ML Development** specializing in 
+- **AI/ML Development** specializing in (Machine Perception)
   - Computer Vision
   - Speech Processing
   - Natural Language Processing (NLP)
