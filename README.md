@@ -18,7 +18,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
   - Computer Vision
   - Speech Processing
   - Natural Language Processing (NLP)
-- **Cloud Development** specializing in integrating Cloud Computing services into mobile & web apps.
+- **Cloud Development** specializing in integrating Cloud Computing Platform services into mobile & web apps.
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
