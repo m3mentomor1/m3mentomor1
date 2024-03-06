@@ -8,7 +8,7 @@
 This is where you'll find all dev projects I've worked on & am currently working on.
 
 ## 🙋 Introduction
-I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE)** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
+I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software Engineer** with a strong passion for gaining & developing skills in:
 - **UI/UX Design, Front-end & Back-end Development** with specialization in
