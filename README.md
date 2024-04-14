@@ -26,9 +26,11 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 - [UI/UX Design]()
 
-- [Front-end & Back-end Development (Mobile & Web)]()
+- [Front-end Dev]()
 
-- [Full-Stack Development]()
+- [Back-end Dev]()
+
+- [Full-Stack Dev]()
 
 - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
 
