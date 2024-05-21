@@ -19,19 +19,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 🗂️ Projects
 
-- [UI Design]()
-
-- [Front-end Dev]()
-
-- [Back-end Dev]()
-
-- [Full-Stack Dev]()
-
-- [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md)
-
-- [Microsoft Azure]()
-
-- [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
+- [UI Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) - [Microsoft Azure]() - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 ##
 ## 💻 My Current Personal Stack
 | Domain | Technologies |
