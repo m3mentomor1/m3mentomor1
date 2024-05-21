@@ -39,7 +39,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 | **Programming/Markup/Style Sheet Language** | ``Java`` ``Python`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``CSS`` ``JavaScript`` ``Ruby`` |
 | **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` ``MongoDB`` ``Azure Cosmos DB`` |
-| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit`` |
+| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Arduino IDE`` ``Postman`` ``OpenCV`` ``Streamlit`` |
 | **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
 | **Linux Environment (GNOME-based)** | GNOME-based: ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` |
