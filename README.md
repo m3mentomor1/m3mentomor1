@@ -42,7 +42,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **UI/UX Design** | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` |
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``PostgreSQL`` <br> Web: ``Python`` ``JavaScript`` ``CSS`` ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``PostgreSQL`` |
+| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Material UI`` <br> Web: ``Python`` ``JavaScript`` ``CSS`` ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` |
+| **Database (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
 | **Cloud Integration & Deployment** | ``Microsoft Azure`` |
 | **Version Control** | ``Git`` ``GitHub`` |
 | **AI/ML** | ``Python`` ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
