@@ -38,7 +38,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 ##
-## 💻 Personal Tech Stack (Current)
+## 💻 My Current Personal Tech Stack
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
