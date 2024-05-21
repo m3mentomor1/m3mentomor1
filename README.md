@@ -13,7 +13,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 🚀 I'm also an aspiring multidisciplinary **Software** & **AI/ML** **Engineer** with a passion for developing a career in:
 - **UI Design, Front-end & Back-end Development**, specializing in Mobile & Web platforms
 - **AI/ML Development**, with a focus on Machine Perception (Computer Vision, Speech Processing, & NLP)
-- **Cloud Development**, specializing in integrating Cloud Computing Platform services into Mobile & Web apps
+- **Cloud Development**, specializing in integrating Cloud Platform services into Mobile & Web apps
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
