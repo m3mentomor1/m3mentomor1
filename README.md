@@ -27,8 +27,8 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
 | **Front-end & Back-end Development** | Mobile: ``Flutter`` ``Material UI`` ``Azure Functions`` ``Microsoft Entra ID`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Azure Functions`` ``Microsoft Entra ID`` |
 | **Database/Data Storage (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
-| **Cloud Integration & Deployment** | <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" /> |
-| **Version Control** | <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> |
+| **Cloud Integration & Deployment** | ``Microsoft Azure`` |
+| **Version Control** | ``Git`` ``GitHub`` |
 | **AI/ML** | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
 ##
 ## ⚙️ Techologies/Tools I used
