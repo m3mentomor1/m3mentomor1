@@ -11,14 +11,9 @@ This is where you'll find all dev projects I've worked on & am currently working
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software Engineer** with a strong passion for gaining & developing skills in:
-- **UI Design, Front-end & Back-end Development** with specialization in
-  - Mobile
-  - Web
-- **AI/ML Development** specializing in (Machine Perception)
-  - Computer Vision
-  - Speech Processing
-  - Natural Language Processing (NLP)
-- **Cloud Development** specializing in integrating Cloud Computing Platform services into mobile & web apps.
+- **UI Design, Front-end & Back-end Development**, specializing in Mobile & Web platforms
+- **AI/ML Development**, with a focus on Machine Perception (Computer Vision, Speech Processing, & NLP)
+- **Cloud Development**, specializing in integrating Cloud Computing Platform services into Mobile & Web apps
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
