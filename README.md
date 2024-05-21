@@ -34,7 +34,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## ⚙️ Techologies/Tools I can use
 |              |                                                                        |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Programming/Markup/Style Sheet Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> ``C++`` <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Programming/Markup/Style Sheet Language** | ``Java`` ``Python`` ``C++`` ``Kotlin`` ``Dart`` ``JavaScript`` ``HTML`` ``CSS`` |
 | **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` ``MongoDB`` ``Azure Cosmos DB`` |
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit`` |
