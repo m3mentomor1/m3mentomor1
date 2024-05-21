@@ -42,7 +42,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | Domain | Technologies |
 |--------|--------------|
 | **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
-| **Programming Language** | ``Python (Main)``, ``JavaScript``, ``Dart`` |
+| **Programming Language** | ``Python (Main)`` ``JavaScript`` ``Dart`` |
 | **Front-end & Back-end Development** | Mobile: ``Flutter`` ``Material UI`` ``Azure Functions`` ``Microsoft Entra ID`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Azure Functions`` ``Microsoft Entra ID`` |
 | **Database/Data Storage (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
 | **Cloud Integration & Deployment** | ``Microsoft Azure`` |
