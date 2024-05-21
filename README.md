@@ -40,7 +40,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit`` |
 | **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
-| **Linux Environment (GNOME-based)** | GNOME-based: ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL CLI`` |
+| **Linux Environment (GNOME-based)** | GNOME-based: ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` |
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
