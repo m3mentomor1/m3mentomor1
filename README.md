@@ -41,10 +41,10 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## 💻 Personal Tech Stack (Current)
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **UI/UX Design**   | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva``                      |
-| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Microsoft Azure`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``CSS`` ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``PostgreSQL`` ``Microsoft Azure`` ``Git`` |
-| **Cloud Integration & Deployment**               | ``Microsoft Azure`` |
-| **AI/ML**               | ``Python`` ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
+| **UI/UX Design** | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` |
+| **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``PostgreSQL`` ``Git`` <br> Web: ``Python`` ``JavaScript`` ``CSS`` ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``PostgreSQL`` ``Git`` |
+| **Cloud Integration & Deployment** | ``Microsoft Azure`` |
+| **AI/ML** | ``Python`` ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
 ##
 ## ⚙️ Techologies/Tools I can use
 |              |                                                                        |
