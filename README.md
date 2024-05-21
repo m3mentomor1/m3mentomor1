@@ -11,7 +11,7 @@ This is where you'll find all dev projects I've worked on & am currently working
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software Engineer** with a strong passion for gaining & developing skills in:
-- **UI/UX Design, Front-end & Back-end Development** with specialization in
+- **UI Design, Front-end & Back-end Development** with specialization in
   - Mobile
   - Web
 - **AI/ML Development** specializing in (Machine Perception)
@@ -24,7 +24,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ##
 ## 🗂️ Projects
 
-- [UI/UX Design]()
+- [UI Design]()
 
 - [Front-end Dev]()
 
@@ -41,7 +41,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 ## 💻 Personal Tech Stack (Current)
 | Area                        | Technologies                                                                                     |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **UI/UX Design** | Mobile & Web: ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` |
+| **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
 | **Front-end & Back-end Development** | Mobile: ``Dart`` ``Flutter`` ``Material UI`` <br> Web: ``Python`` ``JavaScript`` ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` |
 | **Database (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
 | **Cloud Integration & Deployment** | ``Microsoft Azure`` |
