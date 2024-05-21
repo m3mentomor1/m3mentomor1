@@ -28,7 +28,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 | **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
 | **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
 | **Front-end & Back-end Development** | Mobile: ``Flutter`` ``Material UI`` ``Azure Functions`` ``Microsoft Entra ID`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Azure Functions`` ``Microsoft Entra ID`` |
-| **Database/Data Storage (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
+| **Database/Data Storage & Management (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
 | **Cloud Integration & Deployment** | ``Microsoft Azure`` |
 | **Version Control** | ``Git`` ``GitHub`` |
 | **AI/ML** | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
