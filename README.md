@@ -31,7 +31,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Version Control** | <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> |
 | **AI/ML** | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
 ##
-## ⚙️ Techologies/Tools I can use
+## ⚙️ Techologies/Tools I used
 |              |                                                                        |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **Programming/Markup/Style Sheet Language** | ``Java`` ``Python`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``CSS`` ``JavaScript`` ``Ruby`` |
@@ -40,7 +40,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Postman`` ``OpenCV`` ``Streamlit`` |
 | **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
 | **Cloud Computing Platform** | ``Microsoft Azure`` |
-| **Linux Ditros** | GNOME-based: ``Fedora`` ``Pop!_OS`` |
+| **Linux Ditros** | GNOME-based: ``Fedora`` <img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?&style=for-the-badge&logo=pop!_os&logoColor=white" /> |
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
