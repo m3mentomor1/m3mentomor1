@@ -15,7 +15,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - **AI/ML Development**, with a focus on Machine Perception (Computer Vision, Speech Processing, & NLP)
 - **Cloud Development**, specializing in integrating Cloud Computing Platform services into Mobile & Web apps
 
-*I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
+*I love all things **dev**, & I thoroughly enjoy the process of creating & building things. I'm also a certified Pythonista, I use Python for most projects as much as I can.*
 ##
 ## 🗂️ Projects
 [UI Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) - [Microsoft Azure]() - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
