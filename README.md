@@ -22,7 +22,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 ## 🗂️ Projects
 [UI Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) - [Microsoft Azure]() - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 ##
-## 💻 My Current Personal Stack [![My Skills](https://skillicons.dev/icons?i=python,javascript,dart,figma,materialui,react,django,flutter,azure&height=50&width=50)](https://skillicons.dev)
+## 💻 My Current Personal Stack [![My Skills](https://skillicons.dev/icons?i=python,javascript,dart,figma,materialui,react,django,flutter,azure)](https://skillicons.dev)
 | Domain | Technologies |
 |--------|--------------|
 | **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
@@ -37,7 +37,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 |              |                                                                        |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **Programming/Markup/Style Sheet Language** | ``Java`` ``Python`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``CSS`` ``JavaScript`` ``Ruby`` |
-| **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
+| **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Rails`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
 | **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` ``MongoDB`` ``Azure Cosmos DB`` |
 | **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Arduino IDE`` ``Postman`` ``OpenCV`` ``Streamlit`` |
 | **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
