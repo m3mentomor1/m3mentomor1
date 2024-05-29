@@ -20,7 +20,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
-[UI/UX Design]() - [Front-end]() - [Back-end]() - [Full-Stack]() - [AI/Machine Learning]() - [Cloud Dev]() - [Other Projects]() 
+[UI/UX Design]() - [Front-end]() - [Back-end]() - [Full-Stack]() - [AI/Machine Learning]() - [Other Projects]() 
 ##
 ## 💻 My Current Personal Stack
 | Languages | **UI/UX Design** | **Front-end & Back-end Development** | **AI/ML** | **Other tools** |
