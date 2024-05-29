@@ -28,16 +28,8 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 |<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> | ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` | Mobile: ``React Native`` ``Node.js`` ``Azure Functions`` ``React Native Material`` ``SQLite`` ``Azure Database for PostgreSQL`` ``Microsoft Entra ID`` <br><br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Azure Functions`` ``Azure App Service`` ``Azure Database for PostgreSQL`` ``Microsoft Entra ID`` | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Matplotlib`` ``Pandas`` ``Seaborn`` ``NumPy`` ``scikit-learn`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` | ``Git`` ``GitHub`` ``Postman`` ``Azure Data Studio`` |
 
 ##
-## ⚙️ Techologies/Tools I used
-|              |                                                                        |
-|-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Programming/Markup/Style Sheet Language** | ``Java`` ``Python`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``CSS`` ``JavaScript`` ``Ruby`` |
-| **Framework** | ``Flutter`` ``React`` ``Tailwind CSS`` ``Django`` ``Rails`` ``Material UI`` ``PyQt`` ``Swing`` ``TensorFlow`` ``Keras`` ``NLTK`` ``spaCy`` |
-| **Database** | ``SQLite`` ``PostgreSQL`` ``SQL`` ``MySQL`` ``MongoDB`` ``Azure Cosmos DB`` |
-| **Tools** | ``Figma`` ``Material Design 3`` ``Adobe Photoshop`` ``Canva`` ``Android Studio`` ``Arduino IDE`` ``Postman`` ``OpenCV`` ``Streamlit`` |
-| **Version Control** | ``Git`` ``GitHub`` ``GitLab`` |
-| **Cloud Computing Platform** | ``Microsoft Azure`` |
-| **Linux Environment (GNOME-based)** | GNOME-based: ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` |
+## ⚙️ Other technologies/tools I used
+``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Rails`` ``PyQt`` ``Swing`` ``SQL`` ``MySQL`` ``Android Studio`` ``Arduino`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)``
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
