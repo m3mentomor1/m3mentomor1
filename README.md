@@ -27,7 +27,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 |--------|--------------|
 | **Languages** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> |
 | **UI/UX Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
-| **Front-end & Back-end Development** | Mobile: ``React Native`` ``Node.js`` ``Express.js`` ``React Native Material`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` |
+| **Front-end & Back-end Development** | Mobile: ``React Native`` ``Node.js`` ``React Native Material`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` |
 | **Cloud Services** | ``Microsoft Azure`` |
 | **Database & Storage** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` |
 | **Containerization/Deployment** | ``Docker`` ``Azure Container Instances`` ``Azure App Service`` |
