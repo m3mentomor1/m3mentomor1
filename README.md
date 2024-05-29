@@ -23,7 +23,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 [UI Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) - [Microsoft Azure]() - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
 ##
 ## 💻 My Current Personal Stack
-| Domain | Technologies |
+|        | Technologies |
 |--------|--------------|
 | **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
 | **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
