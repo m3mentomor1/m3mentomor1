@@ -29,7 +29,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 
 ##
 ## ⚙️ Other technologies/tools I used
-``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``PyQt`` ``Swing`` ``SQL`` ``MySQL`` ``Android Studio`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)``
+``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``MariaDB`` ``Android Studio`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` ``XAMMP`` 
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
