@@ -11,7 +11,7 @@ This is where you'll find all dev projects I've worked on & am currently working
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software** & **AI/ML** **Engineer** with a passion for developing a career in:
-- **UI Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
+- **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
 - **AI/ML Development** (Machine Perception: Computer Vision, Speech Processing, & NLP)
 - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 
@@ -25,11 +25,9 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 ## 💻 My Current Personal Stack
 |        | Technologies |
 |--------|--------------|
-| **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
-| **UI Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
-| **Front-end & Back-end Development** | Mobile: ``Flutter`` ``Material UI`` ``Azure Functions`` ``Microsoft Entra ID`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Azure Functions`` ``Microsoft Entra ID`` |
-| **Database/Data Storage & Management (SQL/NoSQL/Object Storage)** | ``Azure Database for PostgreSQL`` ``Azure Cosmos DB`` ``Azure Blob Storage`` ``Azure Data Studio`` |
-| **Cloud Integration & Deployment** | ``Microsoft Azure`` |
+| **Programming Language** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> |
+| **UI/UX Design** | Mobile & Web: ``Figma`` ``Material Design`` ``Adobe Photoshop`` ``Canva`` |
+| **Front-end & Back-end Development** | Mobile: ``React Native`` ``React Native Material`` ``Microsoft Azure`` <br> Web: ``React`` ``Tailwind CSS`` ``Material UI`` ``Django`` ``Microsoft Azure`` |
 | **Version Control** | ``Git`` ``GitHub`` |
 | **AI/ML** | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` |
 ##
