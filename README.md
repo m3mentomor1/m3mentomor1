@@ -20,7 +20,7 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
-[UI Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CML.md) - [Microsoft Azure]() - [Other Projects](https://github.com/m3mentomor1/m3mentomor1/blob/main/OtherProjects.md) 
+[UI/UX Design]() - [Front-end Dev]() - [Back-end Dev]() - [Full-Stack Dev]() - [AI/Machine Learning]() - [Microsoft Azure]() - [Other Projects]() 
 ##
 ## 💻 My Current Personal Stack
 | Languages | **UI/UX Design** | **Front-end & Back-end Development** | **AI/ML** | **Other tools** |
