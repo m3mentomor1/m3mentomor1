@@ -15,7 +15,7 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 - **AI/ML Development** (Machine Perception: Computer Vision, Speech Processing, & NLP)
 - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 
-Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Science**, **Robotics**
+Interests: **Artificial Intelligence**, **Data Science**, **Web & Mobile Development**, **Cloud Computing**, **Cybersecurity**, **Robotics**
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
