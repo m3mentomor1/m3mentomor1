@@ -11,7 +11,7 @@ This is where you'll find all dev projects I've worked on & am currently working
 I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at the Technological Institute of the Philippines (T.I.P.), Quezon City.
 
 🚀 I'm also an aspiring multidisciplinary **Software** & **AI/ML** **Engineer** with a passion for developing a career in:
-- Currently taking a Bachelor of Science (BS) degree in **Computer Engineering (CpE) with Specialization in Intelligent Systems** at Technological Institute of the Philippines (T.I.P.), Quezon City.
+- Currently taking a BS degree in **Computer Engineering specializing in Intelligent Systems** at Technological Institute of the Philippines, Quezon City.
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively developing a career, individually in:
   - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
