@@ -16,7 +16,7 @@ This is where you'll find all dev projects I've worked on & am currently working
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - My interests include **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
 
-*I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
+*I love all things **dev**, & I enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
 [UI/UX Design]() - [Front-end]() - [Back-end]() - [Full-Stack]() - [AI/Machine Learning]() - [Other Projects]() 
