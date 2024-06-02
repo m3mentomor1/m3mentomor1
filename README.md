@@ -39,4 +39,4 @@ Interests beyond my specialized career aspirations: **Cybersecurity**, **Data Sc
 **Create your own:** [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ##
 ## 💡 Recommendations
-![Dataset Sources]() - ![UI/UX Design Tools]()
+[Dataset Sources]() - [UI/UX Design Tools]()
