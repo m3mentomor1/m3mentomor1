@@ -6,6 +6,11 @@
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white&color=f5bb00)](https://leetcode.com/qsaqsahagun/)
 
 This is where you'll find all dev projects I've worked on & am currently working on.
+
+Let's connect:
+✉️ sahagunnshain.edu@proton.me
+:linkedin:
+
 ##
 ## 🙋 Introduction
 - Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
