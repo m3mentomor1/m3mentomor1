@@ -8,13 +8,13 @@
 This is where you'll find all dev projects I've worked on & am currently working on.
 ##
 ## 🙋 Introduction
-- I'm currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
-- Aspiring to be a multidisciplinary **Software** & **AI/ML** **Engineer**.
-- Progressively developing a career, individually in:
+- Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
+- Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
+- Progressively developing a career in:
   - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
   - **AI/ML Development** (Machine Perception: Computer Vision, Speech Processing, & NLP)
   - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
-- Interests: **Artificial Intelligence**, **Data Science**, **Web & Mobile Development**, **Cloud Computing**, **Cybersecurity**, **Robotics**
+- Interests: **Artificial Intelligence**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, **Robotics**
 
 *I love all things **dev**, & I thoroughly enjoy the process of creating & building things.*
 ##
