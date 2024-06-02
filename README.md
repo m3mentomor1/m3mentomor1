@@ -10,7 +10,7 @@ This is where you'll find all dev projects I've worked on & am currently working
 Let's connect:
 ✉️ sahagunnshain.edu@proton.me
 
-:linkedin:
+:linkedin: https://www.linkedin.com/in/shain-sahagun/
 
 ##
 ## 🙋 Introduction
