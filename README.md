@@ -20,9 +20,8 @@ This is where you'll find all dev projects I've worked on & am currently working
 ##
 ## 🗂️ Projects
 - [UI/UX Design]() 
-- [Front-end]()
-- [Back-end]()
-- [Full-Stack]()
+- [Mobile Dev]()
+- [Web Dev]()
 - [AI/Machine Learning]()
 - [Other Projects]() 
 ##
