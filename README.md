@@ -12,10 +12,11 @@ I'm an undergraduate student currently pursuing a Bachelor of Science (BS) degre
 
 🚀 I'm also an aspiring multidisciplinary **Software** & **AI/ML** **Engineer** with a passion for developing a career in:
 
-Aspiring to develop a career as a multidisciplinary **Software** & **AI/ML** **Engineer** in: 
-- **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
-- **AI/ML Development** (Machine Perception: Computer Vision, Speech Processing, & NLP)
-- **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
+- Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
+- Progressively developing a career, individually in:
+  - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
+  - **AI/ML Development** (Machine Perception: Computer Vision, Speech Processing, & NLP)
+  - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 
 Interests: **Artificial Intelligence**, **Data Science**, **Web & Mobile Development**, **Cloud Computing**, **Cybersecurity**, **Robotics**
 
