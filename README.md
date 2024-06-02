@@ -13,9 +13,9 @@ This is where you'll find all dev projects I've worked on & am currently working
 > 🚀 Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 
 > 👨‍💻 Progressively developing a career in:
-  - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
-  - **AI/ML Development** (Machine Perception: Computer Vision, Speech Recognition, & NLP)
-  - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
+    - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
+    - **AI/ML Development** (Machine Perception: Computer Vision, Speech Recognition, & NLP)
+    - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 
 > 🤔 My interests include **Artificial Intelligence**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, **Robotics**.
 
