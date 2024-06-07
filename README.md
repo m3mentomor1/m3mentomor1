@@ -24,8 +24,8 @@ Let's connect:<br>
 *I love all things **dev**, & I enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
-- [Mobile Dev]()
-- [Web Dev](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
+- [Mobile Apps]()
+- [Web Apps](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
 - [AI/Machine Learning]()
 - [Other Projects]() 
 ##
