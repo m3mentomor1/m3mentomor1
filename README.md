@@ -27,7 +27,7 @@ Let's connect:<br>
 - [UI/UX Design]()
 - [Mobile Development]()
 - [Web Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
-- [AI/Machine Learning]()
+- [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md)
 - [Other Projects]() 
 ##
 ## 💻 My Current Personal Stack
