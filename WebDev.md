@@ -1,4 +1,4 @@
-# Web Development Projects Projects
+# Web Development Projects
 
 ### UI/UX Design only:
 -
