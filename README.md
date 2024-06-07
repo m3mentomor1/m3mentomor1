@@ -24,7 +24,7 @@ Let's connect:<br>
 *I love all things **dev**, & I enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
-- [UI/UX Design]()
+- [UI/UX Design](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
 - [Mobile Development]()
 - [Web Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
 - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md)
