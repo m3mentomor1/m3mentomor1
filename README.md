@@ -24,7 +24,6 @@ Let's connect:<br>
 *I love all things **dev**, & I enjoy the process of creating & building things.*
 ##
 ## 🗂️ Projects
-- [UI/UX Design]() 
 - [Mobile Dev]()
 - [Web Dev]()
 - [AI/Machine Learning]()
