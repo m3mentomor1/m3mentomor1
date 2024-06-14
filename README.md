@@ -5,7 +5,7 @@
 This is where you'll find all dev projects I've worked on & am currently working on.
 
 Let's connect:<br>
-✉️ sahagunnshain.edu@proton.me<br>
+✉ sahagunnshain.edu@proton.me<br>
 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
 
 ##
