@@ -4,6 +4,7 @@
 - [SecureSpot](https://github.com/m3mentomor1/SecureSpot-Design)
 - [RockeTasks](https://github.com/m3mentomor1/RockeTasks)
 - [ThoughtVault](https://github.com/m3mentomor1/ThoughtVault-Design)
+- [SafeBoxx.](https://github.com/m3mentomor1/SafeBoxx.-Design)
 
 ### Web App/Website Designs
 -
