@@ -18,7 +18,7 @@ Let's connect:<br>
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - My interests include **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
 
-*I love all things **dev**, & I enjoy the process of creating & building things.*
+*I focus on building software solutions that utilize AI & Cloud technologies.*
 ##
 ## 🗂️ Projects
 - [UI/UX Design](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
