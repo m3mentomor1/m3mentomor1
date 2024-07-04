@@ -14,7 +14,7 @@ Let's connect:<br>
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively developing a career in:
     - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
-    - **AI/ML Development** (Machine Perception: Computer Vision, Speech Recognition, & NLP)
+    - **AI/ML Development** (Focused on Machine Perception: Computer Vision, Speech Recognition, & Natural Language Processing)
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - My interests include **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
 
