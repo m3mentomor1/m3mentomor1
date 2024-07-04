@@ -16,8 +16,9 @@ Let's connect:<br>
     - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
     - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, & Natural Language Processing)
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
-- *I focus on building software solutions that utilize AI & Cloud technologies.*
-- My interests include **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
+- I focus on building software solutions that utilize AI & Cloud technologies.
+
+My interests include: **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
 ##
 ## 🗂️ Projects
 - [UI/UX Design](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
