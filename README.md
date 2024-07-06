@@ -4,8 +4,10 @@
 
 This is where you'll find all dev projects I've worked on & am currently working on.
 
-Let's connect: ✉ sahagunnshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
-
+Let's connect: 
+```
+✉ sahagunnshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
+```
 ##
 ## 🙋 Introduction
 - Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
