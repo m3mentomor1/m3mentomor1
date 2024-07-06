@@ -1,10 +1,10 @@
-# Hello, I'm Shain! 👋 
+# Hello, I'm Shain! 👋 (Let's connect: ✉ sahagunnshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/))
 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://your-portfolio-website-url.com)
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
 
 This is where you'll find all dev projects I've worked on & am currently working on.
 
-Let's connect: ✉ sahagunnshain.edu@proton.me  |  💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
+Let's connect: ✉ sahagunnshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
 
 ##
 ## 🙋 Introduction
