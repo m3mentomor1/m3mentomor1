@@ -1,4 +1,4 @@
-# Hello, I'm Shain! 👋 (Let's connect: ✉ sahagunnshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/))
+# Hello, I'm Shain! 👋
 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://your-portfolio-website-url.com)
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
 
@@ -40,6 +40,3 @@ My interests include: **AI**, **Data Science**, **Mobile & Web Development**, **
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
 **Create your own:** [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-##
-## 💡 Recommendations
-[Dataset Sources]() - [UI/UX Design Tools]()
