@@ -1,4 +1,4 @@
-# Hello, there! 👋
+# Hello there! 👋
 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://m3mentomor1.github.io/)
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
 
