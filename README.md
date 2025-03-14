@@ -1,4 +1,4 @@
-# Hello, I'm Shain! 👋
+# Hello! 👋
 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://m3mentomor1.github.io/)
 [![Microsoft Student Ambassadors Badge](https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassadors-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-US/studentambassadors/profile/29029057-9590-40b8-8798-a96fdadaa7d8)
 
@@ -14,8 +14,6 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
     - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, & NLP)
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - I focus on building software solutions that utilize **AI** & **Cloud** technologies.
-
-My interests include: **AI**, **Data Science**, **Mobile & Web Development**, **Cloud Computing**, **Cybersecurity**, & **Robotics**.
 ##
 ## 🗂️ Projects
 - [UI/UX Design](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
