@@ -6,12 +6,11 @@ This is where you'll find all dev projects I've worked on & am currently working
 Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
 ##
 ## 🙋 Introduction
-- Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively developing a career in:
     - **Front-end & Back-end Development** (Cross-Platform Web Apps)
-    - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, & NLP)
-    - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
+    - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, NLP)
+    - **Cloud Development** (Integration of Cloud Platform services into Web Apps)
 - I focus on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ## 🗂️ Projects
@@ -21,13 +20,11 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 | Languages | **UI/UX** | **Front-end/Back-end** | **DevOps** | **AI/ML** | **Other tools** |
 |-----------|-----------|------------------------|------------|-----------|-----------------|
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ``Figma`` ``Material Design`` ``Photopea`` ``Canva`` | Web: ``Next.js`` ``Tailwind CSS`` ``Material UI`` ``FastAPI`` ``Supabase`` ``Docker`` ``Firebase`` ``Render`` ``Google Cloud Run`` <br><br> Mobile: ``Flutter`` ``FastAPI`` ``Supabase`` | ``Git`` ``GitHub`` | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Matplotlib`` ``Pandas`` ``Seaborn`` ``NumPy`` ``scikit-learn`` ``Streamlit`` | ``Postman`` ``Azure Data Studio`` |
-
 ##
 ## ⚙️  Other Technologies / Tools (Used Occasionally)
 ``JavaScript`` ``Angular`` ``Azure Static Web Apps`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``Azure Functions`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``SQLite`` ``Azure Database for PostgreSQL`` ``MariaDB`` ``XAMMP`` ``SQL Server Management Studio (SSMS)`` ``Anaconda`` ``Android Studio`` ``Jupyter Notebook`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` ``Azure ML Studio``
 ##
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show=prs_merged&show_icons=true&hide_title=true&count_private=true&theme=rose_pine&&hide=contribs)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
 **Create your own:** [GitHub Stats Generator](https://github.com/omsimos/github-stats-generator), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
