@@ -9,14 +9,13 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 - Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively developing a career in:
-    - **Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
+    - **Front-end & Back-end Development** (Cross-Platform Web Apps)
     - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, & NLP)
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - I focus on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ## 🗂️ Projects
-- [UI/UX](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
-- [Mobile Development]()
+``[UI/UX](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)`` [Mobile Development]()
 - [Web Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
 - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md)
 - [Other Projects]() 
