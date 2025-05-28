@@ -2,8 +2,6 @@
 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://m3mentomor1.github.io/)
 
 This is where you'll find all dev projects I've worked on & am currently working on.
-
-Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://www.linkedin.com/in/shain-sahagun/)
 ##
 ## 🙋 Introduction
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
@@ -11,7 +9,7 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
     - **Front-end & Back-end Development** (Cross-Platform Web Apps)
     - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, NLP)
     - **Cloud Development** (Integration of Cloud Platform services into Web Apps)
-- I focus on building software solutions that utilize **AI** & **Cloud** technologies.
+- Focused on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ## 🗂️ Projects
 [``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Other Projects``]() 
