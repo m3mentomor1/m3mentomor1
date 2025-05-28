@@ -9,13 +9,13 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 - Currently a **Computer Engineering** undergrad at Technological Institute of the Philippines, Quezon City.
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively developing a career in:
-    - **UI/UX Design, Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
+    - **Front-end & Back-end Development** (Cross-platform Mobile & Web apps)
     - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, & NLP)
     - **Cloud Development** (Integration of Cloud Platform services into Mobile & Web apps)
 - I focus on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ## 🗂️ Projects
-- [UI/UX Design](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
+- [UI/UX](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md)
 - [Mobile Development]()
 - [Web Development](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md)
 - [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md)
@@ -31,7 +31,6 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 ``JavaScript`` ``Angular`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``MariaDB`` ``XAMMP`` ``SQL Server Management Studio (SSMS)`` ``Anaconda`` ``Android Studio`` ``Jupyter Notebook`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)``
 ##
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m3mentomor1&show=prs_merged&show_icons=true&hide_title=true&count_private=true&theme=rose_pine&&hide=contribs)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
