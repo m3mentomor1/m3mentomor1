@@ -15,7 +15,7 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 - I focus on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ## 🗂️ Projects
-[``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [Mobile Development]() [AI/Machine Learning](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [Other Projects]() 
+[``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Other Projects``]() 
 ##
 ## 💻 My Personal Stack
 | Languages | **UI/UX** | **Front-end/Back-end** | **DevOps** | **AI/ML** | **Other tools** |
