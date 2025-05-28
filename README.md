@@ -27,8 +27,8 @@ Let's connect: ✉ sahagunshain.edu@proton.me | 💬 [in/shain-sahagun](https://
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ``Figma`` ``Material Design`` ``Photopea`` ``Canva`` | Web: ``ReactJS`` ``Tailwind CSS`` ``Material UI`` ``NestJS`` ``ExpressJS`` ``Django`` ``Azure Blob`` ``Azure Database for PostgreSQL`` <br><br> Mobile: ``React Native`` ``React Native Material`` ``NestJS`` ``ExpressJS`` ``Azure Blob`` ``Azure Database for PostgreSQL`` ``SQLite`` | ``Git`` ``GitHub`` ``Azure Pipelines`` | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Matplotlib`` ``Pandas`` ``Seaborn`` ``NumPy`` ``scikit-learn`` ``Streamlit`` ``Azure ML Studio`` ``Azure AI Services`` | ``Postman`` ``Microsoft Azure`` ``Azure Data Studio`` |
 
 ##
-## ⚙️ Other technologies/tools I used
-``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``MariaDB`` ``XAMMP`` ``SQL Server Management Studio (SSMS)`` ``Anaconda`` ``Android Studio`` ``Jupyter Notebook`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)``
+## ⚙️ Technologies & Tools I Have Experience With (Used Occasionally)
+``JavaScript`` ``Angular`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``MariaDB`` ``XAMMP`` ``SQL Server Management Studio (SSMS)`` ``Anaconda`` ``Android Studio`` ``Jupyter Notebook`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)``
 ##
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3mentomor1&layout=compact&theme=rose_pine)
