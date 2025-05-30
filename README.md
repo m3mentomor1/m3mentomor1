@@ -13,7 +13,7 @@ Find all dev projects I've worked on & am currently working on here.
 ### 🗂️ Projects
 [``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Other Projects``]() 
 ##
-### 💻 My Personal Stack
+### 💻 Personal Stack
 | Languages | **UI/UX** | **Front-end/Back-end** | **DevOps** | **AI/ML** | **Other tools** |
 |-----------|-----------|------------------------|------------|-----------|-----------------|
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ``Figma`` ``Material Design`` ``Photopea`` ``Canva`` | Web: ``Next.js`` ``Tailwind CSS`` ``Material UI`` ``FastAPI`` ``Supabase (Auth, DB, Storage)`` <br><br> Mobile: ``Flutter`` ``FastAPI`` ``Supabase (Auth, DB, Storage)`` | ``Git`` ``GitHub`` ``Docker`` ``Firebase Hosting`` ``Render Web Service`` ``Google Cloud Run`` | ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Matplotlib`` ``Pandas`` ``Seaborn`` ``NumPy`` ``scikit-learn`` ``Streamlit`` | ``Postman`` ``Azure Data Studio`` |
