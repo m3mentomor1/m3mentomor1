@@ -5,9 +5,9 @@ Find all dev projects I've worked on & am currently working on here.
 ### 🙋 Introduction
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively gaining experiences in:
-    - **Front-end & Back-end Development** (Cross-Platform Apps)
-    - **AI/ML Development** (Focusing on Machine Perception: Computer Vision, Speech Recognition, NLP)
-    - **Cloud Development** (Integration of Cloud Platform services into Web Apps)
+    - **Frontend & Backend** (Cross-Platform Web & Mobile Apps)
+    - **AI/ML** (Computer Vision, Speech, NLP)
+    - **Cloud Development** (Integration of Cloud services into Web & Mobile Apps)
 - Focused on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ### 🗂️ Projects
