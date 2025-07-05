@@ -1,6 +1,6 @@
 ## Hello there! 👋 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://m3mentomor1.github.io/)
 
-Find all dev projects I've worked on & am currently working on here.
+You can find all dev projects I've worked on & am currently working on here.
 ##
 ### 🙋 Introduction
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
