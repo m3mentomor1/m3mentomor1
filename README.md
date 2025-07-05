@@ -11,7 +11,7 @@ You can find all dev projects I've worked on & am currently working on here.
 - Focused on building software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ### 🗂️ Projects
-[``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Tutorials``]() [``Other Projects``]() 
+[``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
 ##
 ### 💻 Personal Stack
 | Languages | **UI/UX** | **Front-end/Back-end** | **DevOps** | **AI/ML** | **Other tools** |
