@@ -8,7 +8,7 @@ You can find all dev projects I've worked on & am currently working on here.
     - **Geographic Information Systems**
     - **Frontend & Backend Dev** (Cross-Platform Web & Mobile Apps)
     - **Agentic AI, Geospatial AI**
-    - **Cloud-Native Development** (Integration of Cloud services into Web & Mobile Apps)
+    - **Cloud-Native Development**
 - Focused on building GIS software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ### 🗂️ Projects
