@@ -5,10 +5,11 @@ You can find all dev projects I've worked on & am currently working on here.
 ### 🙋 Introduction
 - Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
 - Progressively gaining experiences in:
-    - **Frontend & Backend** (Cross-Platform Web & Mobile Apps)
-    - **AI/ML** (Computer Vision, NLP)
-    - **Cloud Development** (Integration of Cloud services into Web & Mobile Apps)
-- Focused on building software solutions that utilize **AI** & **Cloud** technologies.
+    - **Geographic Information Systems**
+    - **Frontend & Backend Dev** (Cross-Platform Web & Mobile Apps)
+    - **Agentic AI, Geospatial AI**
+    - **Cloud-Native Development** (Integration of Cloud services into Web & Mobile Apps)
+- Focused on building GIS software solutions that utilize **AI** & **Cloud** technologies.
 ##
 ### 🗂️ Projects
 [``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
