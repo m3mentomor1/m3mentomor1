@@ -14,7 +14,7 @@ You can find all dev projects I've worked & am currently working on here.
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
 ##
 ### 💻 Personal Stack
-| Languages | **UI/UX** | **Frontend / Backend** | **DevOps** | **Agentic AI** | **Other tools** |
+| Languages | **UI/UX** | **Frontend / Backend Dev** | **DevOps** | **Agentic AI Dev** | **Other tools** |
 |-----------|-----------|------------------------|------------|-----------|-----------------|
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | Tools: ``Figma`` ``Photopea`` ``Canva`` <br><br> Design Systems: ``shadcn/ui`` ``Material Design`` | Web: ``React (Next.js)`` ``shadcn/ui`` ``Material UI`` ``Tailwind CSS`` ``FastAPI`` ``Supabase (Auth, DB, Storage)`` <br><br> Mobile: ``Flutter`` ``FastAPI`` ``Supabase (Auth, DB, Storage)`` | ``Git`` ``GitHub`` ``Docker`` ``Vercel`` ``Firebase Hosting`` ``Render Web Service`` | ``LangChain`` ``FastAPI`` ``Qdrant`` ``OpenRouter`` | ``Postman`` ``Azure Data Studio`` ``n8n`` ``ChatGPT`` ``Claude`` ``GitHub Copilot`` ``DiagramGPT`` ``Android Studio (Emulator)`` |
 ##
