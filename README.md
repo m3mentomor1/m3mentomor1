@@ -1,15 +1,15 @@
 ## Hello there! 👋 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://m3mentomor1.github.io/)
 
-You can find all dev projects I've worked on & am currently working on here.
+You can find all dev projects I've worked & am currently working on here.
 ##
 ### 🙋 Introduction
-- Aspiring multidisciplinary **Software** & **AI/ML** **Engineer**.
-- Progressively gaining experiences in:
+- Multidisciplinary **Software Engineer**.
+- Fields of interest:
     - **Geographic Information Systems**
     - **Frontend & Backend Dev** (Cross-Platform Web & Mobile Apps)
     - **Agentic AI, Geospatial AI**
     - **Cloud-Native Development**
-- Focused on building GIS software solutions that utilize **AI** & **Cloud** technologies.
+- I build AI- & cloud-native GIS software.
 ##
 ### 🗂️ Projects
 [``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
