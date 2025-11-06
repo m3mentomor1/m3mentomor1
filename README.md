@@ -11,7 +11,7 @@ You can find all dev projects I've worked & am currently working on here.
     - **Cloud-Native Development**
 ##
 ### 🗂️ Projects
-[``UI/UX``](https://github.com/m3mentomor1/m3mentomor1/blob/main/UI%5CUX%20Design.md) [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
+[``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
 ##
 ### 💻 Personal Stack
 | Languages | **UI/UX** | **Frontend / Backend** | **DevOps** | **Agentic AI** | **Other tools** |
