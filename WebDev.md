@@ -1,10 +1,16 @@
 # Web Development Projects
 
-### Front-end only:
-- [Single Webpage using HTML and CSS](https://github.com/m3mentomor1/Single_Webpage_using_HTML-and-CSS)
+#### AuraMatch
+View Repository: https://github.com/m3mentomor1/AuraMatch
 
-### Back-end only:
-- 
+#### Heat Index Advisor
+View Repository: https://github.com/m3mentomor1/Heat-Index-Advisor
 
-### Full-stack:
-- [OneSwipe](https://github.com/m3mentomor1/OneSwipe)
+#### OneSwipe
+View Repository: https://github.com/m3mentomor1/OneSwipe
+
+#### OmniChat.AI
+View Repository: https://github.com/m3mentomor1/OmniChat.AI
+
+#### Single Webpage Using HTML and CSS
+View Repository: https://github.com/m3mentomor1/Single_Webpage_using_HTML-and-CSS
