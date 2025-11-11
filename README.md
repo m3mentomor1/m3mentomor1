@@ -20,9 +20,6 @@ You can find all dev projects I've worked & am currently working on here.
 
 Created using: [markdown-badges by Ileriayo](https://ileriayo.github.io/markdown-badges/), [md-badges by inttter](https://inttter.github.io/md-badges/)
 ##
-### ⚙️  Other Technologies / Tools (Used Occasionally)
-``JavaScript`` ``Angular`` ``Material UI`` ``Azure Static Web Apps`` ``Java`` ``C++`` ``Kotlin`` ``Dart`` ``HTML`` ``Ruby`` ``Flutter`` ``Ruby on Rails`` ``Azure Functions`` ``PyQt`` ``Java Swing`` ``SQL`` ``MySQL`` ``SQLite`` ``Azure Database for PostgreSQL`` ``MariaDB`` ``XAMMP`` ``SQL Server Management Studio (SSMS)`` ``TensorFlow`` ``PyTorch`` ``OpenCV`` ``Keras`` ``NLTK`` ``spaCy`` ``Matplotlib`` ``Pandas`` ``Seaborn`` ``NumPy`` ``scikit-learn`` ``Streamlit`` ``Anaconda`` ``Android Studio`` ``Jupyter Notebook`` ``Arduino (Platform)`` ``GitLab`` ``Fedora`` ``Pop!_OS`` ``Ubuntu WSL (CLI)`` ``Azure ML Studio`` 
-##
 ### 📈 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m3mentomor1&theme=rose_pine)](https://git.io/streak-stats) 
 
