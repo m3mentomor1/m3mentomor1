@@ -2,7 +2,7 @@
 
 ### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
-- What caughts my interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
+- What captures my interest: **Geographic Information Systems (GIS)**, **Frontend/Backend Dev (Cross-Platform Web Apps)**, **Agentic AI**, **GeoAI**, **Cloud-Native Dev**.
 - Find out more here: [My Portfolio Website](https://m3mentomor1.github.io/)
 ##
 ### 🗂️ Projects
