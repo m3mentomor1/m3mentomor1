@@ -1,4 +1,4 @@
-## Hello there! 👋 
+## Hello there 👋 
 
 ### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
