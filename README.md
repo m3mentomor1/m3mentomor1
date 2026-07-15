@@ -1,8 +1,9 @@
-## Hello there! 👋 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website%20→-white?style=flat&logo=web&logoColor=white&labelColor=grey)](https://m3mentomor1.github.io/)
+## Hello there! 👋 
 
 ### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
 - What caughts my interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
+- Find out more here: [![My Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website%20→-white?style=flat&logo=web&logoColor=white&labelColor=grey)](https://m3mentomor1.github.io/)
 ##
 ### 🗂️ Projects
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
