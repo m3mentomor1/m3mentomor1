@@ -3,7 +3,7 @@
 ### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
 - What caughts my interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
-- Find out more here: [![My Portfolio Website](https://m3mentomor1.github.io/)
+- Find out more here: [My Portfolio Website](https://m3mentomor1.github.io/)
 ##
 ### 🗂️ Projects
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
