@@ -6,12 +6,12 @@ You can find all dev projects I've worked & am currently working on here.
 - Multidisciplinary **Software Engineer**.
 - Fields of interest:
     - **Geographic Information Systems**
-    - **Frontend & Backend Dev** (Cross-Platform Web & Mobile Apps)
+    - **Frontend & Backend Dev** (Cross-Platform Web Apps)
     - **Agentic AI, Geospatial AI**
     - **Cloud-Native Development**
 ##
 ### 🗂️ Projects
-[``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
+[``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
 ##
 ### 💻 Personal Stack
 | Languages | **UI/UX** | **Frontend / Backend Dev** | **DevOps** | **Agentic AI Dev** | **Other tools** |
