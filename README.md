@@ -3,8 +3,8 @@
 You can find all dev projects I've worked & am currently working on here.
 ##
 ### 🙋 Introduction
-- Multidisciplinary **Software Engineer**.
-- Fields of interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
+- I label myself as a multidisciplinary **Software Engineer**.
+- Things that always caught my interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
 ##
 ### 🗂️ Projects
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
