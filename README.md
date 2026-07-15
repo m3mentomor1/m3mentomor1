@@ -1,7 +1,5 @@
 ## Hello there! 👋 [![CV/Portfolio Website](https://img.shields.io/badge/CV/Portfolio-Visit%20My%20Website%20→-white?style=flat&logo=web&logoColor=white&labelColor=grey)](https://m3mentomor1.github.io/)
 
-You can find all dev projects I've worked & am currently working on here.
-##
 ### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
 - What caughts my interest: Geographic Information Systems (GIS), Frontend/Backend Dev (Cross-Platform Web Apps), Agentic AI, GeoAI, Cloud-Native Dev.
