@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 <b>🙋 Introduction</b><br>
 - I label myself as a multidisciplinary <b>Software Engineer</b>.<br>
 - What captures my interest:<br>
@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;◦ <b>Frontend / Backend Dev</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;◦ <b>Agentic AI</b>, <b>GeoAI</b>
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 <b>💼 Experience</b><br>
 - Backend Dev @ UP Resilience Institute<br>
 - Ex-SWE Trainee & SDET @ White Cloak Technologies, Inc.<br>
