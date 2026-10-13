@@ -7,7 +7,7 @@
   - **Frontend / Backend Dev**
   - **Agentic AI**, **GeoAI**
 - Backend Dev @ UP Resilience Institute
-- Ex-SDET @ White Cloak Technologies , Inc.
+- Ex-SWE Trainee & SDET @ White Cloak Technologies , Inc.
 - Ex-UI Dev Intern @ Exist Software Labs, Inc.
 - Ex-Web Dev Intern @ ChatGenie
 - Find more here: [My Portfolio Website](https://m3mentomor1.github.io/)
