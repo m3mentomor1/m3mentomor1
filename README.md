@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="10%">
 
 #### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
