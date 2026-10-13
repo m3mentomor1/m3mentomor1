@@ -11,7 +11,8 @@
 - Ex-SWE Trainee & SDET @ White Cloak Technologies , Inc.
 - Ex-UI Dev Intern @ Exist Software Labs, Inc.
 - Ex-Web Dev Intern @ ChatGenie
-- Find more here: [My Portfolio Website](https://m3mentomor1.github.io/)
+
+Find more here: [My Portfolio Website](https://m3mentomor1.github.io/)
 ##
 #### 🗂️ Stuff I made
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
