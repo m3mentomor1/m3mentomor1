@@ -6,6 +6,7 @@
   - **Map-centric Apps**
   - **Frontend / Backend Dev**
   - **Agentic AI**, **GeoAI**
+#### 💼 Experience
 - Backend Dev @ UP Resilience Institute
 - Ex-SWE Trainee & SDET @ White Cloak Technologies , Inc.
 - Ex-UI Dev Intern @ Exist Software Labs, Inc.
