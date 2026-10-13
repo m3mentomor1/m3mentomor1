@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" valign="bottom">
+<td valign="top" width="100%">
 
 #### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
@@ -12,7 +12,7 @@
   - **Agentic AI**, **GeoAI**
 
 </td>
-<td valign="top" valign="bottom">
+<td valign="top" width="100%">
 
 #### 💼 Experience
 - Backend Dev @ UP Resilience Institute
