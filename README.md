@@ -1,6 +1,6 @@
 ## Hello there 👋 
 
-### 🙋 Introduction
+#### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
 - What captures my interest:
   - **Map-centric Apps**
@@ -12,7 +12,7 @@
 - Ex-Web Dev Intern @ ChatGenie
 - Find more here: [My Portfolio Website](https://m3mentomor1.github.io/)
 ##
-### 🗂️ Stuff I made
+#### 🗂️ Stuff I made
 [``Web Development``](https://github.com/m3mentomor1/m3mentomor1/blob/main/WebDev.md) [``Mobile Development``]() [``AI/ML``](https://github.com/m3mentomor1/m3mentomor1/blob/main/AI%5CMachine%20Learning.md) [``Data Analytics/Engineering``]() [``Templates``]() [``Tutorials``]() [``Other Projects``]() 
 ##
 ### 💻 Personal Stack
