@@ -3,20 +3,24 @@
 <table>
 <tr>
 <td valign="top">
-<b>🙋 Introduction</b><br>
-- I label myself as a multidisciplinary <b>Software Engineer</b>.<br>
-- What captures my interest:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;◦ <b>Map-centric Apps</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;◦ <b>Frontend / Backend Dev</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;◦ <b>Agentic AI</b>, <b>GeoAI</b>
+
+#### 🙋 Introduction
+- I label myself as a multidisciplinary **Software Engineer**.
+- What captures my interest:
+  - **Map-centric Apps**
+  - **Frontend / Backend Dev**
+  - **Agentic AI**, **GeoAI**
+
 </td>
 <td valign="top">
-<b>💼 Experience</b><br>
-- Backend Dev @ UP Resilience Institute<br>
-- Ex-SWE Trainee & SDET @ White Cloak Technologies, Inc.<br>
-- Ex-UI Dev Intern @ Exist Software Labs, Inc.<br>
-- Ex-IT Director Trainee @ so/ul<br>
+
+#### 💼 Experience
+- Backend Dev @ UP Resilience Institute
+- Ex-SWE Trainee & SDET @ White Cloak Technologies, Inc.
+- Ex-UI Dev Intern @ Exist Software Labs, Inc.
+- Ex-IT Director Trainee @ so/ul
 - Ex-Web Dev Intern @ ChatGenie
+
 </td>
 </tr>
 </table>
