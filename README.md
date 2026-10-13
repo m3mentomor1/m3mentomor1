@@ -1,17 +1,29 @@
 ## Hello there 👋 
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 #### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
 - What captures my interest:
   - **Map-centric Apps**
   - **Frontend / Backend Dev**
   - **Agentic AI**, **GeoAI**
+
+</td>
+<td valign="top" width="50%">
+
 #### 💼 Experience
 - Backend Dev @ UP Resilience Institute
-- Ex-SWE Trainee & SDET @ White Cloak Technologies , Inc.
+- Ex-SWE Trainee & SDET @ White Cloak Technologies, Inc.
 - Ex-UI Dev Intern @ Exist Software Labs, Inc.
 - Ex-IT Director Trainee @ so/ul
 - Ex-Web Dev Intern @ ChatGenie
+
+</td>
+</tr>
+</table>
 
 Find more here: [My Portfolio Website](https://m3mentomor1.github.io/)
 ##
