@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+
 
 #### 🙋 Introduction
 - I label myself as a multidisciplinary **Software Engineer**.
@@ -11,7 +11,7 @@
   - **Frontend / Backend Dev**
   - **Agentic AI**, **GeoAI**
 
-</td>
+
 <td valign="top">
 
 #### 💼 Experience
